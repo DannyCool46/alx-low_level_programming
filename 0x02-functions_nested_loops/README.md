@@ -1,2 +1,2 @@
 #!/bin/bash
-file 3 write a function that checks for lowercase character.
+file 4 Write a function that checks for alphabetic character

@@ -1,2 +1,2 @@
 #!/bin/bash
-file 1 Write a function that prints the alphabet, in lowercase, followed by a new line.
+file 3 write a function that checks for lowercase character.

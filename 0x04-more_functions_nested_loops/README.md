@@ -1,2 +1,2 @@
 #!/bin/bash
-file 3 Write a function that prints the numbers, from 0 to 9, followed by a new line
+file 4 Write a function that prints the numbers, from 0 to 9, followed by a new line

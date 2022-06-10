@@ -2,11 +2,11 @@
 
 /**
  * print_most_numbers - Print numbers from 0-9 except 2&4
- *
  * Return: Always 0.
  */
 
 void print_most_numbers(void)
+
 {
 	int num = 0;
 

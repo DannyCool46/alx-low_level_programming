@@ -13,5 +13,6 @@ void print_square(int size);
 int print_fizzbuzz(void);
 void print_triangle(int size);
 void _putchar(int);
+void print_number(int n);
 
 #endif /* HOLBERTON_H */

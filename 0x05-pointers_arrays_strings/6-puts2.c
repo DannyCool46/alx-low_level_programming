@@ -8,6 +8,7 @@
  */
 
 void puts_half(char *str)
+
 {
 	int n, m, len;
 
@@ -25,4 +26,3 @@ void puts_half(char *str)
 		_putchar(str[n]);
 	_putchar('\n');
 }
-

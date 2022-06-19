@@ -6,12 +6,10 @@
  * @n: input
  * Return: Always 0 (Success)
  */
-
-
 char *leet(char *n)
 {
 	int i, x;
-	int find[] = {'a', 'A', 'e', 'E', 'o', 'O', 't', 'T', 'l', 'L'}
+	int find[] = {'a', 'A', 'e', 'E', 'o', 'O', 't', 'T', 'l', 'L'};
 	int replacer[] = {'4', '3', '0', '7', '1'};
 
 	for (i = 0; n[i] != '\0'; i++)
@@ -25,4 +23,5 @@ char *leet(char *n)
 			}
 		}
 	}
+	return (n);
 }
